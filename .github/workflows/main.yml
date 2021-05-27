@@ -1,6 +1,6 @@
 ---
 name: Molecule
-'on':
+on:
   push:
     branches:
       - main
